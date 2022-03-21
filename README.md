@@ -2,7 +2,7 @@
 
 
 Summary:
-In this project I have created a website with a moving image background using HTML,CSS and Javascript.
+In this project I have created a website with a moving image background using HTML and CSS.
 
 Editor: VS Code.
 
